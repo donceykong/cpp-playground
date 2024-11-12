@@ -1,11 +1,14 @@
 # large DNN model files
 yolov3.weights
 
+# Build directories
+*/build/*
+
 # Cmake/Make files
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
-MakeFile
+#CMakeCache.txt
+#CMakeFiles/
+#cmake_install.cmake
+#MakeFile
 
 # Executables
 DisplayWebcam
